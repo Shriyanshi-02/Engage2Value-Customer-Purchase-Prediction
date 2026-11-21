@@ -1,0 +1,9 @@
+*.csv
+*.parquet
+*.pkl
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
